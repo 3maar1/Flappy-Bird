@@ -1,2 +1,1 @@
-# Flappy Bird
-Falppy Bird Game!
+Falppy Bird Game. Control using left click.
